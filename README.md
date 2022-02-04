@@ -8,7 +8,7 @@
 
 ### 💡 I Have particular interests in
 * Not just good, but great UI's - Backends make the application, and Frontends make the application **usable**
-* Automation - there's something so satisfying with automating a mundane task with code, I'm ~~lazy~~ efficient![image](https://user-images.githubusercontent.com/41963628/152579737-813c2f88-6c02-42e6-be1e-6683fe65b0ce.png)
+* Automation - there's something so satisfying with automating a mundane task with code
 
 * Collaborating with others - team wins are big in my book
 * Monitoring and Observability - visualizing application behavior through logs and automating alerts of any issues
