@@ -1,21 +1,22 @@
 # 👋 Hi, I’m Adam
 
 ### 🧑🏻‍💻 I’m good with
-* Full stack development, from frontend to backend and everywhere inbetween
+* Full stack development, from frontend to backend and everywhere in between
 * UX Design
-* Sofware Architecture
+* Software Architecture
 * Agile/Scrum
 
 ### 💡 I Have particular interests in
 * Not just good, but great UI's - Backends make the application, and Frontends make the application **usable**
-* Automation - there's something so satisfying with automating a mundane task with code, I'm ~~lazy~~ effecient
+* Automation - there's something so satisfying with automating a mundane task with code, I'm ~~lazy~~ efficient![image](https://user-images.githubusercontent.com/41963628/152579737-813c2f88-6c02-42e6-be1e-6683fe65b0ce.png)
+
 * Collaborating with others - team wins are big in my book
 * Monitoring and Observability - visualizing application behavior through logs and automating alerts of any issues
 
 ### 🌱 I’m currently learning ...
 * Go - I've found it super useful for CLI and Infra type tasks
 * Algorithms - Always practicing to ace those technical interviews
-* NoSQL - Haven't had many opprotunities to work with NoSQL stores, but enjoy them when I do
+* NoSQL - Haven't had many opportunities to work with NoSQL stores, but enjoy them when I do
 
 ### 🗂 I’m currently working on some projects
   #### Adamdavis.me
